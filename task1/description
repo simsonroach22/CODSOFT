@@ -1,0 +1,1 @@
+I used a simple classification model called Logistic Regression to predict whether passengers on the Titanic survived or not. The model was trained on passenger data and achieved an accuracy score, which indicates how well the model predicts survival based on the given features
